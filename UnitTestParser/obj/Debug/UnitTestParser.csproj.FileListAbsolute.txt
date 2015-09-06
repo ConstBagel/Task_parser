@@ -1,0 +1,7 @@
+D:\MyTasks\Parser\UnitTestParser\bin\Debug\UnitTestParser.dll
+D:\MyTasks\Parser\UnitTestParser\bin\Debug\UnitTestParser.pdb
+D:\MyTasks\Parser\UnitTestParser\obj\Debug\UnitTestParser.csprojResolveAssemblyReference.cache
+D:\MyTasks\Parser\UnitTestParser\obj\Debug\UnitTestParser.dll
+D:\MyTasks\Parser\UnitTestParser\obj\Debug\UnitTestParser.pdb
+D:\MyTasks\Parser\UnitTestParser\bin\Debug\ParserLib.dll
+D:\MyTasks\Parser\UnitTestParser\bin\Debug\ParserLib.pdb

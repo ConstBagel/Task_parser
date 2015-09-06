@@ -1,0 +1,5 @@
+D:\MyTasks\Parser\ParserLib\obj\Debug\ParserLib.csprojResolveAssemblyReference.cache
+D:\MyTasks\Parser\ParserLib\bin\Debug\ParserLib.dll
+D:\MyTasks\Parser\ParserLib\bin\Debug\ParserLib.pdb
+D:\MyTasks\Parser\ParserLib\obj\Debug\ParserLib.dll
+D:\MyTasks\Parser\ParserLib\obj\Debug\ParserLib.pdb
